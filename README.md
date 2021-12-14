@@ -1,5 +1,5 @@
 # Implementing-Domain-Driven-Design
-# INTRODUCTION 简介
+## INTRODUCTION 简介
 
 This is a **practical guide** for implementing the Domain Driven Design (DDD). While the implementation details rely on the ABP Framework infrastructure, core concepts, principles and patterns are applicable in any kind of solution, even if it is not a .NET solution.
 
